@@ -1,0 +1,2 @@
+show
+execute_script C:\Users\rusha\IdeaProjects\lab5\src\main\java\org\example\4.txt
