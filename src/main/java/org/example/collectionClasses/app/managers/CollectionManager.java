@@ -1,6 +1,6 @@
 package org.example.managers;
 
-import org.example.models.Worker;
+import org.example.collectionClasses.models.Worker;
 
 import java.time.ZonedDateTime;
 import java.util.*;
